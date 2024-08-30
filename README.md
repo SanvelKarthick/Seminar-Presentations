@@ -9,5 +9,7 @@
 - Final Year Project - Flutter App development
 
 ##Some of my presentations 
- ![Uploading Screenshot 2024-08-30 at 12.39.28 PM.png…]()
+
+
+<img width="1289" alt="Screenshot 2024-08-30 at 12 39 28 PM" src="https://github.com/user-attachments/assets/927022c4-8354-4740-9f5e-54f22b2aed7c">
 
