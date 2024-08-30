@@ -5,7 +5,7 @@
 - Artificial Intelligence - Game Theory
 - Machine Learning - LDA & PCA
 - IoT - Deployment
-- Business Analytics - Startup Business Analysis
+- Business Analytics - Types of Business Analytics (Startup)
 - Final Year Project - Flutter App development
 
 ## Some of my presentations 
